@@ -5,6 +5,8 @@ accounts, no trials, no cost. One person shares their screen and reads out a
 6-character code; the other enters the code and gets live view + mouse/keyboard
 control.
 
+![AnyHelp walkthrough](docs/demo.gif)
+
 It is **consent-based and visible**: the person sharing must click **Allow** on
 a pop-up, and a *"● LIVE — your screen is being shared and controlled"* status
 stays on their screen the whole time.
