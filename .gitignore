@@ -1,0 +1,20 @@
+# Python virtual environment (recreate with requirements.txt)
+.venv/
+venv/
+
+# PyInstaller output (build locally with build_exe.bat; releases host the exe)
+build/
+dist/
+*.spec
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+
+# OS / editor noise
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
